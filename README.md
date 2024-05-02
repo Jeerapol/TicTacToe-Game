@@ -14,7 +14,6 @@ This project is a simple implementation of the classic Tic Tac Toe game using Ne
 ## Technologies Used
 
 - [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ## Version History
