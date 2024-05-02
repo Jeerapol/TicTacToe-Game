@@ -152,7 +152,7 @@ function Page() {
               reset();
             }}
           >
-            Click here
+            Reset
           </button>
         </div>
       </div>
