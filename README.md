@@ -20,10 +20,6 @@ This project is a simple implementation of the classic Tic Tac Toe game using Ne
 
 - **v0.0.1**: Initial version featuring basic Tic Tac Toe gameplay functionality.
 
-## Contributors
-
-- Jeerapol - [GitHub](https://github.com/Jeerapol)
-
 ## License
 
 This project is licensed under the MIT License
